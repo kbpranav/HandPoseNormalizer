@@ -1,0 +1,7 @@
+dataset/
+output/
+rotate_output/
+*.jpg
+*.jpeg
+*.ipynb
+handpoints.py
