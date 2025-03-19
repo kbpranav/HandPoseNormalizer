@@ -5,3 +5,6 @@ rotate_output/
 *.jpeg
 *.ipynb
 handpoints.py
+photos/
+build/
+HandAligner.spec

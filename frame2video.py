@@ -85,6 +85,6 @@ def create_smooth_transition_video(image_folder, output_video_path, fps=10, tran
     print(f"Smooth transition video saved successfully: {output_video_path}")
 
 # Run the function to create the transition video
-image_folder = "rotate_output/centered_photos/"
-output_video_path = "rotate_output/smooth_hand_transition.mp4"
-create_smooth_transition_video(image_folder, output_video_path, fps=15, transition_frames=2)
+image_folder = "output/centered_photos/"
+output_video_path = "output/smooth_hand_transition.mp4"
+create_smooth_transition_video(image_folder, output_video_path, fps=10, transition_frames=2)
